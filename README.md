@@ -1,6 +1,10 @@
 # TwitterNameChangeBot
 リプに反応してユーザーネームを変えるbot
 
+# 環境
+ CoreTweet
+ C#
+
 # 簡単な使い方
  　コマンドライン引数にAPI keyとAPI secret keyを指定して実行してください。
    初回の起動はログイン処理を挟みます。
