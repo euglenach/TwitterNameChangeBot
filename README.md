@@ -1,0 +1,2 @@
+# TwitterNameChangeBot
+リプに反応してユーザーネームを変えるbot
