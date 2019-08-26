@@ -2,11 +2,10 @@
 リプに反応してユーザーネームを変えるbot
 
 # 環境
- CoreTweet
- C#
+ C#,[CoreTweet](https://github.com/CoreTweet/CoreTweet)
 
 # 簡単な使い方
- 　コマンドライン引数にAPI keyとAPI secret keyを指定して実行してください。
+   コマンドライン引数にAPI keyとAPI secret keyを指定して実行してください。
    初回の起動はログイン処理を挟みます。
    自動でブラウザが開くのでログインしたらアクセスナンバーをコマンドラインに入力します。
    
